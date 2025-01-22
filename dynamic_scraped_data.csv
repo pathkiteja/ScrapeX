@@ -1,0 +1,19 @@
+Content
+Home
+Docs
+GitHub
+Buy me a coffee
+Products20 products
+Cart20 cart item
+Users10 users
+Login TokenNew!
+GET/products
+GET/products/1
+GET/products/categories
+GET/products/category/jewelery
+GET/carts?userId=1
+GET/products?limit=5
+POST/products
+PUT/products/1
+PATCH/products/1
+DELETE/products/1
