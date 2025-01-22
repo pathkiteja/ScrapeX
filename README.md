@@ -19,7 +19,10 @@ Typical use cases:
 
 Below is a short screen recording demonstrating how to use and run the scraper:
 
-C:\programming\Data Analysis\Automated Web Scraping and Data Dashboard System\screen Recording 2025-01-21 170805.mp4
+## Demo Video
+
+[Click here to watch the demo video](./Screen_Recording_2025-01-21_170805.mp4)
+
 
 
 ---
